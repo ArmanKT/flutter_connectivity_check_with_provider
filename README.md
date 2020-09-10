@@ -4,8 +4,20 @@ Check whether there is an Internet connection available on Flutter app using Pro
 
 
 <br/>
-<img height="600" alt="n1" src="screenshots/online.png">
-<img height="600" alt="n1" src="screenshots/offline.png">
+<table>
+  <tr>
+    <th>ONLINE</th>
+    <th>OFFLINE</th>
+
+  </tr>
+  <tr>
+    <td><img height="600" alt="n1" src="screenshots/online.png"></td>
+    <td><img height="600" alt="n1" src="screenshots/offline.png"></td>
+  </tr>
+
+</table>
+
+
 
 
 
